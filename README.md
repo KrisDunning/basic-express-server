@@ -17,7 +17,12 @@ Setup a basic express server and tests with the following requirements:
 
 ## Links and Resources
 
+Github Repo Link:
 <https://github.com/KrisDunning/basic-express-server>
+Github Pull Request:
+<https://github.com/KrisDunning/basic-express-server/pull/1>
+Heroku Deployment:
+<https://kd-basic-express-server.herokuapp.com/>
 
 ## Tests
 
