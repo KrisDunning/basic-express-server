@@ -20,7 +20,7 @@ app.get('/', (req, res, next) => {
 app.get('/person', validator,(req, res, next) => {
   let { name } = req.query;
   // console.log('name', name);
-  res.status(200).send({name:[name]});
+  res.status(200).send({name:name});
 });
 
 app.use('*', notFound);
